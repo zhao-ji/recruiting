@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to New Epoch Recruitment",
+    "paragraph": "Specialists in Engineering, Surveying & Planning Recruitment Across New Zealand & Australia"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Specialists in our sector with strong industry knowledge, we truly care about our valued reputation as a consultative, trusted and reliable recruitment agency who strives to get the best outcomes for all parties.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Proven expertise across engineering, surveying and planning roles",
+      "Tailored recruitment solutions that meet your business needs",
+      "Strong relationships built on honesty and transparency",
+      "Focused on long-term success for both clients and candidates"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+        "Extensive network of domestic and international professionals",
+        "Direct communication with a dedicated specialist consultant",
+        "Efficient processes designed to save you time and resources",
+        "Committed to providing a seamless recruitment experience"
     ]
   },
   "Gallery": [
@@ -67,118 +67,118 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "Permanent Recruitment",
+      "text": "We connect employers with highly skilled engineering, surveying and planning professionals for long-term, strategic hires."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-handshake-o",
+      "name": "Contract & Temporary Staffing",
+      "text": "Flexible contract professionals ready to support short-term projects, workload peaks or specialised assignments."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Technical & Specialist Roles",
+      "text": "Recruiting for hard-to-find technical positions across civil, structural, geotech, planning, transport, environmental and more."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Senior & Leadership Appointments",
+      "text": "Targeted search for senior engineers, team leaders, discipline managers and other key leadership roles."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-map",
+      "name": "Surveying & Planning Recruitment",
+      "text": "Connecting firms with cadastral surveyors, planners, technicians and specialists across NZ and Australia."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "Talent Pipeline & Market Insights",
+      "text": "Gain actionable insights into market trends, candidate availability, salary expectations and workforce planning."
     }
   ],
-  "Testimonials": [
+    "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"New Epoch took the time to understand our business and delivered candidates who matched both our technical needs and team culture. Outstanding service.\"",
+      "name": "Michael P."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Professional, responsive and highly knowledgeable about the engineering sector. They made the whole recruitment process seamless.\"",
+      "name": "Sarah W."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Their industry insight is excellent. We were able to secure a high-quality surveyor within weeks. Highly recommended.\"",
+      "name": "Daniel K."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"What stood out was the genuine care and communication throughout the process. A great partner to work with.\"",
+      "name": "Emily R."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"New Epoch quickly understood our requirements and presented strong candidates. Very impressed with the professionalism.\"",
+      "name": "James H."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"As a candidate, I felt supported at every stage. They matched me with a role perfectly aligned with my experience and goals.\"",
+      "name": "Olivia M."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Ethan Roberts",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Sophie Williams",
+      "job": "Senior Recruitment Consultant"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Liam Anderson",
+      "job": "Recruitment Specialist"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Chloe Martin",
+      "job": "Client & Candidate Liaison"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Auckland, New Zealand",
+    "phone": "+64 123 456 1234",
+    "email": "info@newepoch.co.nz",
+    "facebook": "facebook.com/newepoch",
+    "twitter": "twitter.com/newepoch",
+    "youtube": "youtube.com/newepoch"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Nationwide Coverage",
+      "text": "We work with engineering, surveying and planning talent across New Zealand and Australia, supporting organisations of all sizes."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Specialist Industry Knowledge",
+      "text": "Your vacancy is managed directly by a specialist consultant from start to finish—no handovers, no delegation."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "No Placement, No Cost",
+      "text": "We operate on a success-based model. If we don’t find the right fit, you don’t pay."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Extensive Candidate Network",
+      "text": "Access to a strong domestic and international network of qualified engineering, surveying and planning professionals."
     }
   ]
 }
