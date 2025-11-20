@@ -99,6 +99,7 @@ export const Contact = (props) => {
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
+            {/*
             <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
@@ -116,6 +117,7 @@ export const Contact = (props) => {
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
+            */}
             <div className="contact-item">
               <p>
                 <span>
@@ -128,6 +130,7 @@ export const Contact = (props) => {
           <div className="col-md-12">
             <div className="row">
               <div className="social">
+          {/*
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : "/"}>
@@ -145,6 +148,7 @@ export const Contact = (props) => {
                     </a>
                   </li>
                 </ul>
+          */}
               </div>
             </div>
           </div>
@@ -153,10 +157,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 New Epoch LTD. Design by{" "}
-            <a href="http://www.google.com" rel="nofollow">
-              New Epoch
-            </a>
+            &copy; 2025 New Epoch LTD. All rights reserved.
           </p>
         </div>
       </div>

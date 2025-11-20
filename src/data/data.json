@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Welcome to New Epoch Recruitment",
-    "paragraph": "Specialists in Engineering, Surveying & Planning Recruitment Across New Zealand & Australia"
+    "title": "New Epoch",
+    "paragraph": "Your Trusted PR Experts, Where Stories Meet Strategy\n\nAcross new Zealand\nAuckland | Wellington | Christchurch | Dunedin"
   },
   "About": {
-    "paragraph": "Specialists in our sector with strong industry knowledge, we truly care about our valued reputation as a consultative, trusted and reliable recruitment agency who strives to get the best outcomes for all parties.",
+    "paragraph": "New Epoch is an independent, New Zealand-owned public relations consultancy founded in 2020 with a clear mission: to deliver world-class strategic communications that are bold, authentic, and unmistakably effective. \n\nFrom our four offices in Auckland, Wellington, Christchurch, and Dunedin, we partner with ambitious companies and purpose-driven organisations across Aotearoa and internationally. Our nationwide presence gives us unrivalled reach and insight into local markets, while our global perspective and proven methodologies ensure every campaign performs on the world stage. \n\n We believe the most powerful stories are built on trust, sharp strategy, and relentless creativity. Since day one, that belief has driven us to help clients navigate crises, launch breakthrough brands, shape public policy, and lead conversations that matter. \n\n At New Epoch, we don’t just manage reputation — we help define the next chapter for the people and businesses shaping tomorrow. \n\n Welcome to a new era of PR. Welcome to New Epoch, your Trusted PR Experts, Where Stories Meet Strategy!",
     "Why": [
       "Proven expertise across engineering, surveying and planning roles",
       "Tailored recruitment solutions that meet your business needs",
@@ -152,33 +152,43 @@
     }
   ],
   "Contact": {
-    "address": "Auckland, New Zealand",
-    "phone": "+64 123 456 1234",
+    "address": "",
+    "phone": "",
     "email": "info@newepoch.co.nz",
-    "facebook": "facebook.com/newepoch",
-    "twitter": "twitter.com/newepoch",
-    "youtube": "youtube.com/newepoch"
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Nationwide Coverage",
-      "text": "We work with engineering, surveying and planning talent across New Zealand and Australia, supporting organisations of all sizes."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Specialist Industry Knowledge",
-      "text": "Your vacancy is managed directly by a specialist consultant from start to finish—no handovers, no delegation."
+      "title": "Media Relations",
+      "text": "Securing prime coverage in print, broadcast, and online outlets to amplify your narrative and build credibility. We leverage deep connections with New Zealand journalists and global networks for targeted placements that resonate with local and international audiences."
     },
     {
       "icon": "fa fa-group",
-      "title": "No Placement, No Cost",
-      "text": "We operate on a success-based model. If we don’t find the right fit, you don’t pay."
+      "title": "Digital PR & Social Media Strategy",
+      "text": "Harnessing SEO, content marketing, and social platforms to boost online visibility and foster two-way conversations. From viral TikTok activations to data-driven LinkedIn campaigns, we integrate digital tools with traditional PR for measurable ROI."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Crisis Communications & Reputation Management",
+      "text": "Proactive strategies to safeguard your brand during challenges, turning potential threats into opportunities for trust-building. Our approach includes rapid response planning, stakeholder engagement, and post-crisis recovery, proven effective for Kiwi brands facing regulatory scrutiny or global incidents."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Extensive Candidate Network",
-      "text": "Access to a strong domestic and international network of qualified engineering, surveying and planning professionals."
+      "title": "Brand Strategy & Launch Campaigns",
+      "text": "Crafting compelling brand stories from concept to execution, including product launches and market entries. Tailored for New Zealand's businesses, we combine creative ideation with global benchmarks for launches that capture headlines and hearts."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Corporate & Public Affairs",
+      "text": "Navigating policy, regulatory, and community landscapes to position your organisation as a thoughtful leader. We facilitate advocacy that aligns business goals with societal impact."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Thought Leadership & Content Creation",
+      "text": "Elevating executives and experts through op-eds, podcasts, and awards to establish authority in your field. We focus on New Zealand's collaborative media environment while targeting global platforms, helping clients like yours lead conversations in your fields."
     }
   ]
 }
