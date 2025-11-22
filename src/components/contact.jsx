@@ -56,6 +56,7 @@ export const Contact = (props) => {
                         type="text"
                         id="name"
                         name="name"
+                        value={name}
                         className="form-control"
                         placeholder="Name"
                         required
@@ -70,6 +71,7 @@ export const Contact = (props) => {
                         type="email"
                         id="email"
                         name="email"
+                        value={email}
                         className="form-control"
                         placeholder="Email"
                         required
@@ -83,6 +85,7 @@ export const Contact = (props) => {
                   <textarea
                     name="message"
                     id="message"
+                    value={message}
                     className="form-control"
                     rows="4"
                     placeholder="Message"
