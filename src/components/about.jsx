@@ -13,6 +13,11 @@ export const About = (props) => {
             <div className="about-text">
               <h2>About Us</h2>
               <p style={{ "white-space": "pre-line" }}>
+                  <span style={{"font-weight": "600", "font-size": "20", "color": "#333"}}>
+                      {props.data ? props.data.firstParagraph: "loading..."}
+                  </span>
+                  <br />
+                  <br />
                   {props.data ? props.data.paragraph : "loading..."}
               </p>
               <div className="list-style">
