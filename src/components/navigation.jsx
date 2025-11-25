@@ -17,10 +17,16 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <img className="navbar-left" src="img/logo.svg" width="50" height="50" style={{"padding": "5" }} alt="" />
+          {/*
+          <img className="navbar-left" src="img/logo.jpg" width="50" height="50" style={{"padding": "5" }} alt="" /-->
+          */}
+          <img className="navbar-left" src="img/logo.jpg" height="50" alt="" />
+          {/*
           <a className="navbar-brand page-scroll" href="#page-top">
             NEW EPOCH
-          </a>{" "}
+          </a>
+          */}
+          {" "}
         </div>
 
         <div
